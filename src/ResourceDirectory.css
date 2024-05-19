@@ -1,0 +1,61 @@
+
+
+.resource-directory {
+    margin-top: 20px;
+    background-color: #c5d6e8;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center;
+
+}
+
+.resource-directory h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+
+}
+
+.resource-directory button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.resource-directory button:hover {
+    background-color: #0056b3;
+}
+
+.resource-list {
+    margin-top: 10px;
+}
+
+.resource-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center;
+}
+
+.resource-item h3 {
+    margin-top: 0;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center; 
+}
+
+.resource-item p {
+    margin: 5px 0;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+}
